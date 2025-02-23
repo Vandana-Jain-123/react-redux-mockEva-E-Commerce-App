@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 60px;
+    padding-top: 20px;
+    background-color: rgb(184, 149, 104);
+    font-size: 20px;
+    height: 50px;
+    
+    
+}
+.navLink{
+    color:white;
+    text-decoration: none;
+    margin-left: 5%;
+
+}
+.right-navLink {
+    color: white;
+    text-decoration: none;
+    margin-right: 7%;
+
+}
